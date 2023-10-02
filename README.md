@@ -5,7 +5,7 @@ Small C library for sound synthesis of MML ([`Music Macro Language`](https://en.
 
 However, it is not an audio library. It does not provide any means of playing the generated sound. You only get a stream of samples. It is up to you to play them using whatever audio API you have available.
 
-https://github.com/P-i-N/blip/blob/main/examples/GeorgeMichael_CarelessWhisper.mp4
+()[https://github.com/P-i-N/blip/blob/main/examples/GeorgeMichael_CarelessWhisper.mp4]
 
 ## MML syntax
 Following is a list of supported MML commands. All commands are case-insensitive, whitespace is ignored.
